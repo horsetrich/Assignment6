@@ -1,3 +1,6 @@
 This is text to serve as details of a hypothetical project. The first commit
 
 Added a new feature to the project. This text serves to mark what branch this new feature is on
+
+This new text serves to show I have addressed the comments made under my pull request. The new feature shows I am able to use pull requests
+and view comments and address these comments
