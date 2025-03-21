@@ -1,1 +1,1 @@
-# Assignment6
+# Practice repository for Github workflow assignment
