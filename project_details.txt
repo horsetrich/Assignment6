@@ -1,1 +1,3 @@
 This is text to serve as details of a hypothetical project. The first commit
+
+Added a new feature to the project. This text serves to mark what branch this new feature is on
