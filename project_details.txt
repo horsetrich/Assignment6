@@ -10,4 +10,3 @@ New feature was broken, not working. This update to the text serves as a bug fix
 Okay, this fixes the bug. This is to show progress on the project, and that the bug is fixed
 
 This is a minor change to add to a new release version
-
